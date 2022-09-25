@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SubmissionPart2</string>
+    <string name="username">Username</string>
+    <string name="nama">nama</string>
+    <string name="_00">00</string>
+    <string name="follower">follower</string>
+    <string name="following">following</string>
+    <string name="details">Details</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="text_location">text Location</string>
+    <string name="repository">Repository</string>
+    <string name="text_repository">TextRepository</string>
+    <string name="rvfollower">Follower</string>
+    <string name="delete_favorite">Favorit Di Hapus</string>
+    <string name="data_kosong">Data Kosong :(</string>
+</resources>
